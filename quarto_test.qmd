@@ -1,8 +1,8 @@
-# my_blog
-
-uiju jeong
-
-money money
+---
+title: "첫 Qmd 문서 만들기"
+format: html
+jupyter: python3
+---
 
 # 제목 1 (h1)
 
